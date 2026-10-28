@@ -1,6 +1,6 @@
 # YouTube Income per 1000 Views Calculator
 
-**Live site:** https://yourusername.github.io/
+**Live site:** https://itzjatinog.github.io/youtube-rpm-calculator
 
 A free tool that estimates how much YouTube pays per 1,000 views (RPM). Choose your niche, audience country and video type to see a realistic earnings range in US dollars or Indian rupees. No signup, no tracking of what you enter.
 
